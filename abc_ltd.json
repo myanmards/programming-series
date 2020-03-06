@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Win Win",
+    "Department": "Engineering",
+    "Salary": 250000
+  },
+  {
+    "Name": "Sein Sein",
+    "Department": "IT",
+    "Salary": 300000
+  },
+  {
+    "Name": "Aung Aung",
+    "Department": "Finance",
+    "Salary": 200000
+  },
+  {
+    "Name": "Ni Ni",
+    "Department": "HR",
+    "Salary": 150000
+  },
+  {
+    "Name": "Maung Ba",
+    "Department": "Finance",
+    "Salary": 205000
+  },
+  {
+    "Name": "Maung Hla",
+    "Department": "HR",
+    "Salary": 155000
+  }
+]
